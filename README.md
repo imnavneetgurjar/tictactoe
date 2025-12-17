@@ -54,5 +54,5 @@ Play against another player directly in your browser.
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/imnavneetgurjar/tic-tac-toe.git
+git clone https://github.com/imnavneetgurjar/tictactoe.git
 cd tic-tac-toe
